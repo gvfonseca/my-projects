@@ -2,6 +2,10 @@
 
 This project reproduces key experiments from the paper **"Understanding Deep Learning Requires Rethinking Generalization"** by Zhang et al. (2017). The study explores fundamental aspects of generalization in deep learning and evaluates how implicit and explicit regularization techniques influence model performance.
 
+I worked on this project while studying abroad at EPFL in EE-411 with Jan Clevorn, Ryoga Matsuo, and Jerome Mayolet.
+
+I primarly worked on reproduction of Figure 2, outlined in section 5 of the report.
+
 ## Objectives
 
 - **Validate Findings**: Reproduce experiments to confirm the conclusions about generalization in deep learning.
