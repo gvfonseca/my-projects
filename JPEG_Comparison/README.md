@@ -1,7 +1,7 @@
 # Progressive and Hierarchical JPEG vs JPEG2000
 
 ## Introduction
-This project by Gustavo Fonseca and Hunter Baisden and aims to compare the loading times and display qualities of JPEG and JPEG 2000, and Hierarchical JPEG images. It includes a Flask web application that allows users to view different image formats.
+This project by Gustavo Fonseca and Hunter Baisden and aims to compare the loading times and display qualities of JPEG and JPEG 2000 images. It includes a Flask web application that allows users to view different image formats.
 
 ## Features
 - Display Baseline JPEG images.
