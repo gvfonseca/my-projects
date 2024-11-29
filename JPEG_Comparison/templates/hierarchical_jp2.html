@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hierarchical JPEG 2000 Display</title>
+    <script>
+        function displayImageJP2() {
+            var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+            var srcJP2 = '{{ url_for("static", filename="baseline.jp2") }}'; // Default to the baseline JP2 image
+            if (width > 1200) {
+                srcJP2 = '{{ url_for("static", filename="hierarchical_scale_1.jp2") }}';
+            } else if (width > 900) {
+                srcJP2 = '{{ url_for("static", filename="hierarchical_scale_0.75.jp2") }}';
+            } else if (width > 600) {
+                srcJP2 = '{{ url_for("static", filename="hierarchical_scale_0.5.jp2") }}';
+            } else {
+                srcJP2 = '{{ url_for("static", filename="hierarchical_scale_0.25.jp2") }}';
+            }
+            document.getElementById('hierarchicalJP2Image').src = srcJP2;
+        }
+        window.onload = displayImageJP2;
+        window.onresize = displayImageJP2;
+    </script>
+</head>
+<body>
+    <h1>Hierarchical JPEG 2000 Image </h1>
+    <img id="hierarchicalJP2Image" alt="Hierarchical JPEG 2000" />
+</body>
+</html>

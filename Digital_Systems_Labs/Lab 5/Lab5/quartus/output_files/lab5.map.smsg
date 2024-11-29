@@ -1,0 +1,11 @@
+Info (10281): Verilog HDL Declaration information at slc3_sramtop.sv(7): object "Run" differs only in case from object "RUN" in the same scope File: C:/ECE385/Lab5/slc3/slc3_sramtop.sv Line: 7
+Info (10281): Verilog HDL Declaration information at slc3_sramtop.sv(7): object "Continue" differs only in case from object "CONTINUE" in the same scope File: C:/ECE385/Lab5/slc3/slc3_sramtop.sv Line: 7
+Warning (10273): Verilog HDL warning at register_file.sv(13): extended using "x" or "z" File: C:/ECE385/Lab5/slc3/register_file.sv Line: 13
+Warning (10273): Verilog HDL warning at register_file.sv(14): extended using "x" or "z" File: C:/ECE385/Lab5/slc3/register_file.sv Line: 14
+Warning (10273): Verilog HDL warning at register_file.sv(15): extended using "x" or "z" File: C:/ECE385/Lab5/slc3/register_file.sv Line: 15
+Warning (10273): Verilog HDL warning at register_file.sv(16): extended using "x" or "z" File: C:/ECE385/Lab5/slc3/register_file.sv Line: 16
+Warning (10273): Verilog HDL warning at register_file.sv(17): extended using "x" or "z" File: C:/ECE385/Lab5/slc3/register_file.sv Line: 17
+Warning (10273): Verilog HDL warning at register_file.sv(18): extended using "x" or "z" File: C:/ECE385/Lab5/slc3/register_file.sv Line: 18
+Warning (10273): Verilog HDL warning at register_file.sv(19): extended using "x" or "z" File: C:/ECE385/Lab5/slc3/register_file.sv Line: 19
+Warning (10273): Verilog HDL warning at register_file.sv(20): extended using "x" or "z" File: C:/ECE385/Lab5/slc3/register_file.sv Line: 20
+Warning (10273): Verilog HDL warning at HexDriver.sv(23): extended using "x" or "z" File: C:/ECE385/Lab5/slc3/HexDriver.sv Line: 23

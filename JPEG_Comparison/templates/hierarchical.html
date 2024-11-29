@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hierarchical Image Display</title>
+    <script>
+        function displayImage() {
+            var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+            var src = 'static/baseline.jpg'; // Default to the baseline image
+            if (width > 1200) {
+                src = 'static/hierarchical_scale_1.jpg';
+            } else if (width > 900) {
+                src = 'static/hierarchical_scale_0.75.jpg';
+            } else if (width > 600) {
+                src = 'static/hierarchical_scale_0.5.jpg';
+            } else {
+                src = 'static/hierarchical_scale_0.25.jpg';
+            }
+            document.getElementById('hierarchicalImage').src = src;
+        }
+        window.onload = displayImage;
+        window.onresize = displayImage;
+    </script>
+</head>
+<body>
+    <h1>Hierarchical Image </h1>
+    <img id="hierarchicalImage" alt="Hierarchical Image" />
+</body>
+</html>

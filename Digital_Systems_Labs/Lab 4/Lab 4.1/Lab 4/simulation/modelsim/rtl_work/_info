@@ -1,0 +1,314 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/simulation/modelsim
+vAdd_sub_9bit
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1677531829
+!i10b 1
+!s100 <5Y;me[QW8231@ET7h0_>3
+I[RmcH^DJ?2bgmSzj8z9YL3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 ripple_adder_sv_unit
+S1
+R0
+Z5 w1676608170
+Z6 8C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/ripple_adder.sv
+Z7 FC:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/ripple_adder.sv
+L0 1
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1677531829.000000
+Z10 !s107 C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/ripple_adder.sv|
+Z11 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier|C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/ripple_adder.sv|
+!i113 1
+Z12 o-sv -work work
+Z13 !s92 -sv -work work {+incdir+C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier}
+Z14 tCvgOpt 0
+n@add_sub_9bit
+vcontrol
+R1
+R2
+!i10b 1
+!s100 ;_aacVXPFD=c:MlUfC`B<0
+I5B<RDSej[kfGRM@N^]_Q<2
+R3
+!s105 control_sv_unit
+S1
+R0
+w1676599167
+8C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/control.sv
+FC:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/control.sv
+L0 5
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/control.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier|C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/control.sv|
+!i113 1
+R12
+R13
+R14
+vfour_bit_RA
+R1
+R2
+!i10b 1
+!s100 mUSddU?MoH99nd4`TI0V40
+IncVhzdcld9P^@5>37iZMF3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+Z15 L0 39
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+nfour_bit_@r@a
+vfull_adder
+R1
+R2
+!i10b 1
+!s100 Uf?A@?88z57^GG3LRnC>[3
+Ihfj`lij[=NG9m2D0=aK[@1
+R3
+!s105 full_adder_sv_unit
+S1
+R0
+w1675700764
+8C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/full_adder.sv
+FC:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/full_adder.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/full_adder.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier|C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/full_adder.sv|
+!i113 1
+R12
+R13
+R14
+vHexDriver
+R1
+R2
+!i10b 1
+!s100 ^DddjRd7Wla]U<SlP;mT@0
+IUCS?C4Q61BljHbL;;h7_n0
+R3
+!s105 HexDriver_sv_unit
+S1
+R0
+w1675696946
+8C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/HexDriver.sv
+FC:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/HexDriver.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/HexDriver.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier|C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/HexDriver.sv|
+!i113 1
+R12
+R13
+R14
+n@hex@driver
+vProcessor
+R1
+R2
+!i10b 1
+!s100 JXzB6[ZMJPZjF4MoVHWfH2
+I<?Gz`PG5190SfS0K1AHMT3
+R3
+!s105 Processor_sv_unit
+S1
+R0
+w1676650775
+8C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/Processor.sv
+FC:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/Processor.sv
+L0 8
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/Processor.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier|C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/Processor.sv|
+!i113 1
+R12
+R13
+R14
+n@processor
+vreg_8
+R1
+R2
+!i10b 1
+!s100 7P1QBa7<Dh4g^REko1LFo2
+IHL8_lY=1alF[eFkLR7ZkY0
+R3
+Z16 !s105 Reg_4_sv_unit
+S1
+R0
+Z17 w1676582612
+Z18 8C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/Reg_4.sv
+Z19 FC:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/Reg_4.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+Z20 !s107 C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/Reg_4.sv|
+Z21 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier|C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/Reg_4.sv|
+!i113 1
+R12
+R13
+R14
+vsync
+R1
+R2
+!i10b 1
+!s100 2W5Vz0:F6ckE2`eJOTK5l1
+I_mO461OlncSIcNVT=d2YN0
+R3
+Z22 !s105 Synchronizers_sv_unit
+S1
+R0
+Z23 w1675202506
+Z24 8C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/Synchronizers.sv
+Z25 FC:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/Synchronizers.sv
+L0 4
+R8
+r1
+!s85 0
+31
+R9
+Z26 !s107 C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/Synchronizers.sv|
+Z27 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier|C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/Synchronizers.sv|
+!i113 1
+R12
+R13
+R14
+vsync_r0
+R1
+R2
+!i10b 1
+!s100 IGd9f_F;JNjVBLQ@DAnD10
+IDBXSZ8CK7_YD<1I[`gfA@3
+R3
+R22
+S1
+R0
+R23
+R24
+R25
+L0 18
+R8
+r1
+!s85 0
+31
+R9
+R26
+R27
+!i113 1
+R12
+R13
+R14
+vsync_r1
+R1
+R2
+!i10b 1
+!s100 1CXiH1DYDbAUS69Ee2j060
+Ik1SnLeY`QP2G4JcQ;njo[0
+R3
+R22
+S1
+R0
+R23
+R24
+R25
+R15
+R8
+r1
+!s85 0
+31
+R9
+R26
+R27
+!i113 1
+R12
+R13
+R14
+vtestbench_8
+R1
+R2
+!i10b 1
+!s100 I8Sj?U]b2dTJfUGHGoP@]2
+Im[3Y@HzYX[V<EZjcSjgPH0
+R3
+!s105 testbench_8_sv_unit
+S1
+R0
+w1677531591
+8C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/testbench_8.sv
+FC:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/testbench_8.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/testbench_8.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier|C:/Users/hunte/OneDrive/Documents/Illinois/Spring 2023/ECE 385/Labs/Lab 4.1/Multiplier/testbench_8.sv|
+!i113 1
+R12
+R13
+R14
+vxreg
+R1
+R2
+!i10b 1
+!s100 f=[0I<XD=MZW[E8M?7zOL0
+I@E@G;f_aX6ibWPNHM;Pac0
+R3
+R16
+S1
+R0
+R17
+R18
+R19
+L0 25
+R8
+r1
+!s85 0
+31
+R9
+R20
+R21
+!i113 1
+R12
+R13
+R14
