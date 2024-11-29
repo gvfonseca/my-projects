@@ -27,6 +27,12 @@ Welcome to my portfolio! This repository contains a collection of my past projec
 **Skills Used**: Image Compression, Web Performance Testing, WebPageTest.org, Digital Archiving, Mobile Optimization.  
 [Project Link](./JPEG_Comparison)
 
+### 5. Spy Camera Localization
+**Description**: A project utilizing IMU and RSSI data to localize hidden cameras or transmitters, combining trajectory plotting, signal strength analysis, and real-time feedback for precise positioning.  
+**Skills Used**: Python, Sensor Data Processing, Trajectory Analysis, RSSI Integration, Real-Time Localization.  
+[Project Link](./Spy_Camera_Localization)
+
+
 
 ---
 
