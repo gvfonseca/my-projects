@@ -1,5 +1,5 @@
 # My Portfolio
-Welcome to my portfolio! This repository contains a collection of my past projects showcasing my skills in software development and data analysis.
+Welcome to my portfolio! This repository contains a collection of my past projects showcasing my skills in signal and image processing, embedded programming, and software development.
 
 ## About Me
 - Name: Gustavo Fonseca

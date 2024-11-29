@@ -1,7 +1,7 @@
 # Portrait Mode App
 
 ## Description
-An Andriod App that segments the foreground from the background. Has 2 modes, green screen, where background objects are replaced by a green screen of the users choice, and portrait mode, where background objects are blurred.
+An Android App that segments the foreground from the background. Has 2 modes, green screen, where background objects are replaced by a green screen of the users choice, and portrait mode, where background objects are blurred.
 
 Algorithm developmed in Python and then ported to Java.
 
