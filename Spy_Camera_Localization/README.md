@@ -4,6 +4,8 @@ This project focuses on localizing a hidden camera or transmitter within a speci
 
 This project was created for a competition for CS 437 at UIUC, in which we were tasked with finding a hidden camera. In the first day, the camera was constantly transmitting packets, and in the second day the camera would only send data when motion was detected.
 
+The final report can be found [here](./Spy_Camera_Localization_Final_Report.pdf).
+
 ## Objectives
 
 - Localize a hidden camera using RSSI and IMU data.
