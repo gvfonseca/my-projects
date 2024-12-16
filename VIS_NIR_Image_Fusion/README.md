@@ -22,6 +22,10 @@ My research is focused on image enhancement with visual (VIS) and near-infrared 
 - **[Wavelet Evaluation Report](./Wavelet_Evaluation.pdf)**
   - Report focuses on the development and analysis of a mutlilevel wavelet image enhancement algorithm.
 
+## Example
+
+![VIS Image](VIS_image.png)
+
 
 ## Applications
 
