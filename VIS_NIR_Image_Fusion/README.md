@@ -24,7 +24,22 @@ My research is focused on image enhancement with visual (VIS) and near-infrared 
 
 ## Example
 
-![VIS Image](VIS_image.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="VIS_image.png" alt="Figure 1" width="350px">
+      <br>VIS Image
+    </td>
+    <td align="center">
+      <img src="NIR_image.png" alt="Figure 2" width="350px">
+      <br>NIR Image
+    </td>
+    <td align="center">
+      <img src="Vis_enhanced.jpg" alt="Figure 3" width="350px">
+      <br>Enhanced VIS Image
+    </td>
+  </tr>
+</table>
 
 
 ## Applications
