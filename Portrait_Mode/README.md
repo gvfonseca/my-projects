@@ -9,6 +9,8 @@ Algorithm developed in Python and then ported to Java.
 
 This project was in collaboration with Jason Vasko for ECE 420: Embedded Signal Processing, at University of Illinois.
 
+The final report can be found [here](./Portrait_Mode_Report.pdf).
+
 ## Examples
 
 Watch how objects that are moving are separated from the background, and are incorporated in the background when they stop moving.
