@@ -9,11 +9,11 @@ Welcome to my portfolio! This repository contains a collection of my past projec
 
 ## Projects
 ### 1. Fusion of Visual and Near-Infrared Images
-**Motivation**: There has been significant interest in the fusion of VIS and NIR images for many applications, such as remote sensing, medical imaging, and surveillance. The NIR image contains details that are often absent in the VIS image, particularly from shadows, strong saturation, or low contrast.
+**Motivation**: There has been significant interest in the fusion of visual and near-infrared images for many applications, such as remote sensing, medical imaging, and surveillance. The NIR image contains details that are often absent in the VIS image, particularly from shadows, strong saturation, or low contrast.
 
-**Description**: For my Senior Thesis project I am researching different methods of enhancing visual images with information present in near-infrared images using a variety of digitial signal and image processing techniques. 
+**Description**: For my Senior Thesis project, I am researching different methods for enhancing visual images with information present in near-infrared images using a variety of digital signal and image processing techniques. Beyond the theoretical analysis and development, this project also includes the implementation of these algorithms in an embedded platform (Raspberry Pi) that interfaces with 2 cameras: one visual camera and one near-infrared camera.
 
-**Skills Used**: Wavelet Transform, Bilateral Filtering, Image Quality metrics, Texture and Contrast Tranferring, Histogram Matching, Alpha Blending.  
+**Skills Used**: Wavelet Transform, Embedded Programming, Image Alignment, Algorithm Optimization, Bilateral Filtering, Image Quality metrics, Texture and Contrast Tranferring, Histogram Matching.  
 
 [Project Link](./Portrait_Mode)
 
