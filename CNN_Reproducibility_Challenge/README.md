@@ -4,6 +4,8 @@ This report reproduces key experiments from the paper **"Understanding Deep Lear
 
 I worked on this project while studying abroad at EPFL in EE411-"Fundamentals of inference and learning" with Jan Clevorn, Ryoga Matsuo, and Jerome Mayolet. My role was in the reproduction of Figure 2 of Zhang's paper, described in section 5 of the report.
 
+The final report can be found [here](./Reproducibility_Challenge_Rethinking_Generalization_Report.pdf).
+
 ## Objectives
 
 - **Validate Findings**: Reproduce experiments to confirm the conclusions about generalization in deep learning.
