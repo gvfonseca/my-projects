@@ -17,7 +17,7 @@ My research is focused on image enhancement with visual (VIS) and near-infrared 
   - Report focuses on the embedded system used to capture the VIS and NIR images
 
 - **[Progress Report 2](./Progress_Report_2.pdf)**
-  - Report focuses on implementing enhancement algorithm proposed by Zhang et al. [here](./Progress_Report_2.pdf).
+  - Report focuses on implementing enhancement algorithm proposed by Zhang et al. [here](./Zhang_Paper.pdf).
 
 - **[Wavelet Evaluation Report](./Wavelet_Evaluation.pdf)**
   - Report focuses on the development and analysis of a mutlilevel wavelet image enhancement algorithm.
