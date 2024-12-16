@@ -9,16 +9,16 @@ I would like to highlight that this game was designed and implemented purely wit
 
 ## Final Project Files
 
-- **[Final Report](./Binding_of_ECE_game/Binding%20of%20ECE%20Final%20Report.pdf)**
+- **[Final Report](./Binding_of_ECE_game_files/Binding%20of%20ECE%20Final%20Report.pdf)**
   - Contains detailed description of game implementation.
 
-- **[src](./Binding_of_ECE_game/src)**
+- **[src](./Binding_of_ECE_game_files/src)**
   - Contains all the code and implementation to set up the game on the FPGA.
 
- - **[ram](./Binding_of_ECE_game/ram)**
+ - **[ram](./Binding_of_ECE_game_files/ram)**
    - Contains the files to set up the RAM for the FPGA.
 
-- **[source](./Binding_of_ECE_game/source)**
+- **[source](./Binding_of_ECE_game_files/source)**
   - Contains all the sprites used for the game. 
 
 ## Interesting Labs 
