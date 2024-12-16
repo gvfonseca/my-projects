@@ -9,6 +9,16 @@ Algorithm developed in Python and then ported to Java.
 
 This project was in collaboration with Jason Vasko for ECE 420: Embedded Signal Processing, at University of Illinois.
 
+## Examples
+
+Watch how objects that are moving are separated from the background, and are incorporated in the background when they stop moving.
+
+[Portrait Mode Video](https://www.youtube.com/shorts/smbveQzrgtQ)
+
+[Beach Background Video](https://www.youtube.com/shorts/4OCvr5BBibo)
+
+[Forest Background Video](https://www.youtube.com/shorts/xNL-d1uN93I)
+
 ## Features
 
 - **Real-Time Image Processing:**
@@ -42,18 +52,14 @@ This project was in collaboration with Jason Vasko for ECE 420: Embedded Signal 
 
 2. **Foreground-Background Segmentation:**
    - Detects and separates foreground from the background using clustering techniques.
+   - NOTE: Foreground is defined as objects that are moving.
    - Applies either a green screen effect or background blurring.
 
 3. **Image Rendering:**
    - Processes each frame using a pipeline of convolution, clustering, and morphological operations.
    - Displays the final processed image using `Canvas` and `Bitmap` on Android's `SurfaceView`.
 
-## Examples
-[Beach Background Video](https://www.youtube.com/shorts/4OCvr5BBibo)
 
-[Forest Background Video](https://www.youtube.com/shorts/xNL-d1uN93I)
-
-[Portrait Mode Video](https://www.youtube.com/shorts/smbveQzrgtQ)
 
 ## Applications
 
