@@ -1,7 +1,7 @@
-# Progressive and Hierarchical JPEG vs JPEG2000
+# Comparing JPEG vs JPEG2000
 
 ## Introduction
-This project by Gustavo Fonseca and Hunter Baisden and aims to compare the loading times and display qualities of JPEG and JPEG 2000 images. It includes a Flask web application that allows users to view different image formats. This was our final project for ECE 418, image processing, at University of Illinois.
+This project by Gustavo Fonseca and Hunter Baisden aims to compare the loading times and display qualities of JPEG and JPEG 2000 images. It includes a Flask web application that allows users to view different image formats. This was our final project for ECE418-"Image Processing" at the University of Illinois.
 
 ## Features
 - Display Baseline JPEG images.
@@ -72,5 +72,5 @@ Performance tests were conducted under typical web browsing conditions:
 - **Worst Performer**: Progressive JPEG2000 showed slower load times despite its advanced compression capabilities.
 - **Insights**:
   - Progressive JPEG improves user experience by showing low-quality images quickly.
-  - JPEG2000 provides high-quality compression but may not suit real-time web applications due to higher processing overhead.
+  - JPEG2000 provides high-quality compression but may not be suited for real-time web applications due to higher processing overhead.
 
