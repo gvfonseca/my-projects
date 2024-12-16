@@ -7,7 +7,7 @@ An Android App that segments the foreground from the background. The app has 2 m
 
 Algorithm developed in Python and then ported to Java.
 
-This project was in collaboration with Jason Vasko for ECE 420 at University of Illinois.
+This project was in collaboration with Jason Vasko for ECE 420: Embedded Signal Processing, at University of Illinois.
 
 ## Features
 
