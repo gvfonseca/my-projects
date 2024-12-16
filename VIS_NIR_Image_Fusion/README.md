@@ -1,73 +1,31 @@
-# Gustavo's Portfolio
-Welcome to my portfolio! This repository contains a collection of my past projects showcasing my skills in signal and image processing, embedded programming, and software development.
+# Visual and Near-Infrared Image Fusion
 
-## About Me
-- Name: Gustavo Fonseca
-- Current Position: Electrical Engineering Student at University of Illinois at Urbana Champaign (To graduate in May 2025)
-- Expertise: Embedded Signal Processing
-- Contact: gvfonseca2003@gmail.com
+## Description
+This ongoing project is for my Senior Thesis at the University of Illinois. This project has many parts to it, including literature review and progress reports focusing on specific aspects of the project. For instance, in [Wavelet Evaluation Report](./Wavelet_Evaluation.pdf), I explored using different levels of the wavelet decomposition for better image enhancement results.
 
-## Projects
-### 1. Fusion of Visual and Near-Infrared Images
-**Motivation**: There has been significant interest in the fusion of visual and near-infrared images for many applications, such as remote sensing, medical imaging, and surveillance. The NIR image contains details that are often absent in the VIS image, particularly from shadows, strong saturation, or low contrast.
+My research is focused on image enhancement with visual (VIS) and near-infrared (NIR) images in an embedded setting. 
 
-**Description**: For my Senior Thesis project, I am researching different methods for enhancing visual images with information present in near-infrared images using a variety of digital signal and image processing techniques. Beyond the theoretical analysis and development, this project also includes the implementation of these algorithms in an embedded platform (Raspberry Pi) that interfaces with 2 cameras: one visual camera and one near-infrared camera.
+## File Descriptions 
 
-**Skills Used**: Wavelet Transform, Embedded Programming, Image Alignment, Algorithm Optimization, Bilateral Filtering, Image Quality metrics, Texture and Contrast Tranferring, Histogram Matching.  
+- **[Topic Statement](./Topic_Statement.pdf)**
+  - Definition of research problem.
 
-[Project Link](./Portrait_Mode)
+- **[Literature Review](./Literature_Review.pdf)**
+  - Overall summary of various papers about image enhancement algorithms using NIR images.
 
-### 2. Portrait Mode
-**Motivation**: Have you ever taken a picture using Portrait Mode on an iPhone? Is it not cool that they are able to highlight the subject and foreground while blurring the background in real-time?
+- **[Progress Report 1](./Progress_Report_1.pdf)**
+  - Report focuses on the embedded system used to capture the VIS and NIR images
 
-**Description**: Implemented the portrait mode in an Android application, featuring foreground-background segmentation and dynamic video feed manipulation. 
+- **[Progress Report 2](./Progress_Report_2.pdf)**
+  - Report focuses on implementing enhancement algorithm proposed by Zhang et al. [here](./Progress_Report_2.pdf).
 
-**Skills Used**: Java, Android SDK, Camera API, Real-Time Image Processing, Computer Vision, Embedded Systems.  
-
-[Project Link](./Portrait_Mode)
- 
-### 3. Reproducing "Understanding Deep Learning Requires Rethinking Generalization" by Zhang et al., 2017.
-**Motivation**: To get more experience with machine learning, my group and I decided to reproduce an influencial paper in the field.
-
-**Description**: We reproduced the key experiments decribed in Zhang's paper, discussing deep learning generalization and the effects of regularization and data corruption on model performance.  
-
-**Skills Used**: Python, PyTorch, Machine Learning, Data Augmentation, Neural Networks, Reproducibility in Research.  
-
-[Project Link](./CNN_Reproducibility_Challenge)
-
-### 4. Implementation of the game "Binding of Issac" on an FPGA
-**Motivation**: "Binding of Issac" is an action-adventure 2D game which my partner and I both enjoyed and wanted to recreate with a twist.
-
-**Description**: Our game, "Binding of an ECE Major", is a game designed purely with digital logic in an FPGA; i.e., no software was compiled or interpreted. The game only uses sequential and combinatorial digital circuits. 
-
-**Skills Used**: SystemVerilog, System-on-Chip (SoC) solutions, Assembly, FPGAs, Digital Simulators, State Machines, Timing Analysis, Microprocessor Integration.  
-
-[Project Link](./Digital_Systems_Labs)
-
-### 5. Comparing JPEG vs JPEG2000
-**Motivation**: JPEG2000 is an evolution of JPEG's image compression standard. However, it is not widely adopted. What are we missing my not adpoting JPEG2000?
-
-**Description**: An in-depth analysis of image compression techniques comparing Progressive and Hierarchical JPEG formats with JPEG2000, focusing on compression efficiency, load times, and their impact on web performance.  
-
-**Skills Used**: Image Compression, Web Performance Testing, Digital Archiving, Mobile Optimization.  
-
-[Project Link](./JPEG_Comparison)
-
-### 6. Spy Camera Localization
-**Motivation**: How can we locate a hidden spy camera? What if we could sniff the packets or messages transmitted by the camera with a portable device that locates the camera?
-
-**Description**: In this project, we utilized an IMU (Inertial Measurement Unit), WiFi receiver, and a Raspberry Pi and developed code to process the IMU and RSSI data to estimate the location of hidden WiFi cameras or transmitters. Our code combined trajectory plotting, signal strength analysis, and real-time feedback for precise positioning.  
-
-**Skills Used**: Python, Sensor Fusion, Sensor Data Processing, Trajectory Analysis, RSSI Integration, Real-Time Localization.  
-
-[Project Link](./Spy_Camera_Localization)
+- **[Wavelet Evaluation Report](./Wavelet_Evaluation.pdf)**
+  - Report focuses on the development and analysis of a mutlilevel wavelet image enhancement algorithm.
 
 
+## Applications
 
----
-
-Thank you for visiting!
-
-### Cheating Disclaimer
-I am not responsible for the use of any of these projects in any class. **Please do not cheat.**
+- Remote Sensing
+- Shadow Detection
+- Self-Driving Cars
 
