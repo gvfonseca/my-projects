@@ -48,3 +48,6 @@ My research is focused on image enhancement with visual (VIS) and near-infrared 
 - Shadow Detection
 - Self-Driving Cars
 
+### Note
+I did not include any of my code for this project since it is still ongoing.
+
