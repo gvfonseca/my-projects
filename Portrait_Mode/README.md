@@ -49,7 +49,7 @@ This project was in collaboration with Jason Vasko for ECE 420: Embedded Signal 
    - Displays the final processed image using `Canvas` and `Bitmap` on Android's `SurfaceView`.
 
 ## Examples
-[Beach Background Video](www.youtube.com/shorts/4OCvr5BBibo)
+[Beach Background Video](https://www.youtube.com/shorts/4OCvr5BBibo)
 
 [Forest Background Video](https://www.youtube.com/shorts/xNL-d1uN93I)
 
