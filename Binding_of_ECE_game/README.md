@@ -5,7 +5,9 @@ This is the culmination of a semester-worth of ECE 385-Digital Systems Laborator
 
 For the final project of this class, we designed and developed our game: "Binding of an ECE Major". This game was inspired by the game "Binding of Issac".
 
-I would like to highlight that this game was designed and implemented purely with digital logic in an FPGA; i.e., no software was compiled or interpreted. The game only uses sequential and combinatorial digital circuits. Watch our demo [here](https://youtu.be/i_g9_j7QDNE)!
+I would like to highlight that this game was designed and implemented purely with digital logic in an FPGA; i.e., no software was compiled or interpreted. The game only uses sequential and combinatorial digital circuits. 
+
+Watch our demo [here](https://youtu.be/i_g9_j7QDNE)!
 
 ## Final Project Files
 
