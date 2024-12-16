@@ -9,13 +9,13 @@ Welcome to my portfolio! This repository contains a collection of my past projec
 
 ## Projects
 ### 1. Fusion of Visual and Near-Infrared Images
-**Motivation**: There has been significant interest in the fusion of visual and near-infrared images for many applications, such as remote sensing, medical imaging, and surveillance. The NIR image contains details that are often absent in the VIS image, particularly from shadows, strong saturation, or low contrast.
+**Motivation**: There has been significant interest in the fusion of visual and near-infrared images for many applications, such as remote sensing, medical imaging, and surveillance. The near-infrared image contains details that are often absent in the visual image, particularly from shadows, strong saturation, or low contrast.
 
 **Description**: For my Senior Thesis project, I am researching different methods for enhancing visual images with information present in near-infrared images using a variety of digital signal and image processing techniques. Beyond the theoretical analysis and development, this project also includes the implementation of these algorithms in an embedded platform (Raspberry Pi) that interfaces with 2 cameras: one visual camera and one near-infrared camera.
 
 **Skills Used**: Wavelet Transform, Embedded Programming, Image Alignment, Algorithm Optimization, Bilateral Filtering, Image Quality metrics, Texture and Contrast Tranferring, Histogram Matching.  
 
-[Project Link](./Portrait_Mode)
+[Project Link](./VIS_NIR_Image_Fusion)
 
 ### 2. Portrait Mode
 **Motivation**: Have you ever taken a picture using Portrait Mode on an iPhone? Is it not cool that they are able to highlight the subject and foreground while blurring the background in real-time?
@@ -25,15 +25,15 @@ Welcome to my portfolio! This repository contains a collection of my past projec
 **Skills Used**: Java, Android SDK, Camera API, Real-Time Image Processing, Computer Vision, Embedded Systems.  
 
 [Project Link](./Portrait_Mode)
- 
-### 3. Reproducing "Understanding Deep Learning Requires Rethinking Generalization" by Zhang et al., 2017.
-**Motivation**: To get more experience with machine learning, my group and I decided to reproduce an influencial paper in the field.
 
-**Description**: We reproduced the key experiments decribed in Zhang's paper, discussing deep learning generalization and the effects of regularization and data corruption on model performance.  
+### 3. Spy Camera Localization
+**Motivation**: How can we locate a hidden spy camera? What if we could sniff the packets or messages transmitted by the camera with a portable device that locates the camera?
 
-**Skills Used**: Python, PyTorch, Machine Learning, Data Augmentation, Neural Networks, Reproducibility in Research.  
+**Description**: In this project, we utilized an IMU (Inertial Measurement Unit), WiFi receiver, and a Raspberry Pi and developed code to process the IMU and RSSI data to estimate the location of hidden WiFi cameras or transmitters. Our code combined trajectory plotting, signal strength analysis, and real-time feedback for precise positioning.  
 
-[Project Link](./CNN_Reproducibility_Challenge)
+**Skills Used**: Python, Sensor Fusion, Sensor Data Processing, Trajectory Analysis, RSSI Integration, Real-Time Localization.  
+
+[Project Link](./Spy_Camera_Localization)
 
 ### 4. Implementation of the game "Binding of Issac" on an FPGA
 **Motivation**: "Binding of Issac" is an action-adventure 2D game which my partner and I both enjoyed and wanted to recreate with a twist.
@@ -42,9 +42,18 @@ Welcome to my portfolio! This repository contains a collection of my past projec
 
 **Skills Used**: SystemVerilog, System-on-Chip (SoC) solutions, Assembly, FPGAs, Digital Simulators, State Machines, Timing Analysis, Microprocessor Integration.  
 
-[Project Link](./Digital_Systems_Labs)
+[Project Link](./Binding_of_ECE_game)
 
-### 5. Comparing JPEG vs JPEG2000
+### 5. Reproducing "Understanding Deep Learning Requires Rethinking Generalization" by Zhang et al., 2017.
+**Motivation**: To get more experience with machine learning, my group and I decided to reproduce an influencial paper in the field.
+
+**Description**: We reproduced the key experiments decribed in Zhang's paper, discussing deep learning generalization and the effects of regularization and data corruption on model performance.  
+
+**Skills Used**: Python, PyTorch, Machine Learning, Data Augmentation, Neural Networks, Reproducibility in Research.  
+
+[Project Link](./CNN_Reproducibility_Challenge)
+
+### 6. Comparing JPEG vs JPEG2000
 **Motivation**: JPEG2000 is an evolution of JPEG's image compression standard. However, it is not widely adopted. What are we missing my not adpoting JPEG2000?
 
 **Description**: An in-depth analysis of image compression techniques comparing Progressive and Hierarchical JPEG formats with JPEG2000, focusing on compression efficiency, load times, and their impact on web performance.  
@@ -52,15 +61,6 @@ Welcome to my portfolio! This repository contains a collection of my past projec
 **Skills Used**: Image Compression, Web Performance Testing, Digital Archiving, Mobile Optimization.  
 
 [Project Link](./JPEG_Comparison)
-
-### 6. Spy Camera Localization
-**Motivation**: How can we locate a hidden spy camera? What if we could sniff the packets or messages transmitted by the camera with a portable device that locates the camera?
-
-**Description**: In this project, we utilized an IMU (Inertial Measurement Unit), WiFi receiver, and a Raspberry Pi and developed code to process the IMU and RSSI data to estimate the location of hidden WiFi cameras or transmitters. Our code combined trajectory plotting, signal strength analysis, and real-time feedback for precise positioning.  
-
-**Skills Used**: Python, Sensor Fusion, Sensor Data Processing, Trajectory Analysis, RSSI Integration, Real-Time Localization.  
-
-[Project Link](./Spy_Camera_Localization)
 
 
 
