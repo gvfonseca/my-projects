@@ -28,10 +28,10 @@ In addition to the final project we also worked on several interesting labs as w
 - **[Four-Bit Processor Circuit](./Four_bit_processor_circuit)**
   - Implementation of a 4-bit processor with 8 arithmetic functions, built entirely on a breadboard.
 
-- **[Eight-bit processor fpga](./Eight_bit_processor_fpga)**
+- **[Eight-bit processor in FPGA](./Eight_bit_processor_fpga)**
   - Implementation of an 8-bit processor in SystemVerilog with 3 different adders.
 
- - **[Eight-bit adders multipliers](./Eight_bit_adders_multipliers)**
+ - **[Eight-bit Multipliers](./Eight_bit_adders_multipliers)**
    - Expansion of the 8-bit processor with an 8-bit shift multiplier.
 
 - **[LC3 Assembly](./LC3_Assembly)**
