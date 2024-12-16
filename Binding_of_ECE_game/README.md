@@ -9,37 +9,41 @@ I would like to highlight that this game was designed and implemented purely wit
 
 ## Final Project Files
 
-- **[Final Report](./Binding_of_ECE_game_files/Binding%20of%20ECE%20Final%20Report.pdf)**
+- **[Final Report](./Binding_of_ECE_game/Binding%20of%20ECE%20Final%20Report.pdf)**
   - Contains detailed description of game implementation.
 
-- **[src](./Binding_of_ECE_game_files/src)**
-  - Contains the all the code and implemnetation to set up the game on the FPGA.
+- **[src](./Binding_of_ECE_game/src)**
+  - Contains all the code and implementation to set up the game on the FPGA.
 
- - **[ram](./Binding_of_ECE_game_files/ram)**
+ - **[ram](./Binding_of_ECE_game/ram)**
    - Contains the files to set up the RAM for the FPGA.
 
-- **[source](./Binding_of_ECE_game_files/source)**
-  - Contains all the sprites used for the game.
+- **[source](./Binding_of_ECE_game/source)**
+  - Contains all the sprites used for the game. 
 
-Each lab, all of its components, and the correspinding report can be found inside of this repository. 
+## Interesting Labs 
 
-## Labs 
+In addition to the final project we also worked on several interesting labs as well.
 
-**Lab 1:** a solo lab where the work was already done. The corresponding report is only Gustavo's Report
+- **[Four-Bit Processor Circuit](./Four_bit_processor_circuit)**
+  - Implementation of a 4-bit processor with 8 arithmetic functions, built entirely on a breadboard.
 
-**Lab 2:** fully hardware 4 bit processor with 8 arithmetic functions, built entirely on a breadboard
+- **[Eight-bit processor fpga](./Eight_bit_processor_fpga)**
+  - Implementation of an 8-bit processor in SystemVerilog with 3 different adders.
 
-**Lab 3:** introduction to system verilog saw the creation of 3 different adders
+ - **[Eight-bit adders multipliers](./Eight_bit_adders_multipliers)**
+   - Expansion of the 8-bit processor with an 8-bit shift multiplier.
 
-**Lab 4:** building on the adders this is an 8-bit shift multiplier
+- **[LC3 Assembly](./LC3_Assembly)**
+  - Implementation of most of the LC3 assembly language using SystemVerilog.
+ 
+- **[VGA USB Communication](./VGA_USB_communication)**
+  - Implemented VGA video capabilities and USB communication with peripherals.
+  - Fundamental building block for final project.
 
-**Lab 5:** this is almost the fully implementation of lc3 inside of system veriilog, with a few things missing. Called slc3
-
-**Lab 6:** introduced the vga capabilites as well as usb protocol
-
-**Lab 7:** pallatte colors and screen savers
-
-**Final Project:** *The Binding of an ECE Major* an implemtation of the binding of isaac with an ECE twist. It can be seen [here](https://youtu.be/i_g9_j7QDNE)
+- **[Images in VGA](./Images_in_VGA)**
+  - Implemented colors and sprites through the VGA output.
+  - Fundamental building block for final project.
 
 ## Topics Covered
 
