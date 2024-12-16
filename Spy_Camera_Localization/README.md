@@ -46,7 +46,7 @@ This project was created for a competition for CS 437 at UIUC, in which we were 
   - Dynamic step scaling improved trajectory accuracy.
   - Correct localization achieved using heatmap interpolation and refined strategies.
 - Outcome: Successfully localized the camera in the correct zone. Got third place for this day's results.
-- The figures below show the trajectory and RSSI values at each point estimated, and the interpolated heatmap.
+- The figures below show the trajectory and RSSI values at each point estimated, and the interpolated heatmap. The actual position was less than a quarter of a meter away from the position estimated.
 
 <table>
   <tr>
