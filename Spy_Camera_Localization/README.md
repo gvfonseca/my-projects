@@ -2,7 +2,7 @@
 
 This project focuses on localizing a hidden camera or transmitter within a specified area using a combination of **Inertial Measurement Unit (IMU)** data and **Received Signal Strength Indicator (RSSI)** values. By integrating movement tracking and signal strength analysis, this project aims to accurately estimate the transmitter's position.
 
-This project was created for a competition for CS 437 at UIUC, in which we were tasked with finded a hidden camera. In the first day the camera was constantly transmitting packets, and in the second day the cmaera would only send data when motion was detected.
+This project was created for a competition for CS 437 at UIUC, in which we were tasked with finding a hidden camera. In the first day, the camera was constantly transmitting packets, and in the second day the camera would only send data when motion was detected.
 
 ## Objectives
 
