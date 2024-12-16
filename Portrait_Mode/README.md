@@ -5,7 +5,7 @@ An Android App that segments the foreground from the background. The app has 2 m
 - Green screen: Background objects are replaced by a green screen of the users choice.
 - Portrait mode: Background objects are blurred.
 
-Algorithm developmed in Python and then ported to Java.
+Algorithm developed in Python and then ported to Java.
 
 This project was in collaboration with Jason Vasko for ECE 420 at University of Illinois.
 
@@ -47,6 +47,13 @@ This project was in collaboration with Jason Vasko for ECE 420 at University of 
 3. **Image Rendering:**
    - Processes each frame using a pipeline of convolution, clustering, and morphological operations.
    - Displays the final processed image using `Canvas` and `Bitmap` on Android's `SurfaceView`.
+
+## Examples
+[Beach Background Video](www.youtube.com/shorts/4OCvr5BBibo)
+
+[Forest Background Video](https://www.youtube.com/shorts/xNL-d1uN93I)
+
+[Portrait Mode Video](https://www.youtube.com/shorts/smbveQzrgtQ)
 
 ## Applications
 
