@@ -1,9 +1,0 @@
-16:52:31 **** Incremental Build of configuration Nios II for project lab7 ****
-make all 
-Info: Building ../lab7_bsp/
-C:/Users/hunte/OneDrive/Desktop/Programs/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../lab7_bsp/
-[BSP build complete]
-[lab7 build complete]
-
-16:52:33 Build Finished (took 1s.175ms)
-

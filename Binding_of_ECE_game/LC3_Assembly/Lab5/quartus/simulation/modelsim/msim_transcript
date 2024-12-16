@@ -1,0 +1,209 @@
+# Reading C:/Users/hunte/OneDrive/Desktop/Programs/modelsim_ase/tcl/vsim/pref.tcl
+# do lab5_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/Users/hunte/OneDrive/Desktop/Programs/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -sv -work work +incdir+C:/ECE385/Lab5/slc3 {C:/ECE385/Lab5/slc3/ALU.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:09:16 on Mar 20,2023
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/ECE385/Lab5/slc3" C:/ECE385/Lab5/slc3/ALU.sv 
+# -- Compiling module ALU
+# 
+# Top level modules:
+# 	ALU
+# End time: 15:09:16 on Mar 20,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/ECE385/Lab5/slc3 {C:/ECE385/Lab5/slc3/test_memory.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:09:16 on Mar 20,2023
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/ECE385/Lab5/slc3" C:/ECE385/Lab5/slc3/test_memory.sv 
+# -- Compiling module test_memory
+# 
+# Top level modules:
+# 	test_memory
+# End time: 15:09:17 on Mar 20,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/ECE385/Lab5/slc3 {C:/ECE385/Lab5/slc3/synchronizers.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:09:17 on Mar 20,2023
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/ECE385/Lab5/slc3" C:/ECE385/Lab5/slc3/synchronizers.sv 
+# -- Compiling module sync
+# -- Compiling module sync_r0
+# -- Compiling module sync_r1
+# 
+# Top level modules:
+# 	sync
+# 	sync_r0
+# 	sync_r1
+# End time: 15:09:17 on Mar 20,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/ECE385/Lab5/slc3 {C:/ECE385/Lab5/slc3/SLC3_2.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:09:17 on Mar 20,2023
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/ECE385/Lab5/slc3" C:/ECE385/Lab5/slc3/SLC3_2.sv 
+# -- Compiling package SLC3_2
+# 
+# Top level modules:
+# 	--none--
+# End time: 15:09:17 on Mar 20,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/ECE385/Lab5/slc3 {C:/ECE385/Lab5/slc3/Registers.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:09:17 on Mar 20,2023
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/ECE385/Lab5/slc3" C:/ECE385/Lab5/slc3/Registers.sv 
+# -- Compiling module reg_16
+# -- Compiling module reg_1
+# -- Compiling module reg_3
+# 
+# Top level modules:
+# 	reg_16
+# 	reg_1
+# 	reg_3
+# End time: 15:09:17 on Mar 20,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/ECE385/Lab5/slc3 {C:/ECE385/Lab5/slc3/register_file.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:09:17 on Mar 20,2023
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/ECE385/Lab5/slc3" C:/ECE385/Lab5/slc3/register_file.sv 
+# -- Compiling module register_file
+# 
+# Top level modules:
+# 	register_file
+# End time: 15:09:17 on Mar 20,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/ECE385/Lab5/slc3 {C:/ECE385/Lab5/slc3/Mux.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:09:17 on Mar 20,2023
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/ECE385/Lab5/slc3" C:/ECE385/Lab5/slc3/Mux.sv 
+# -- Compiling module mux4_1_16
+# -- Compiling module mux2_1_3
+# -- Compiling module mux2_1_16
+# -- Compiling module mux_BUS
+# 
+# Top level modules:
+# 	mux4_1_16
+# 	mux2_1_3
+# 	mux2_1_16
+# 	mux_BUS
+# End time: 15:09:17 on Mar 20,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/ECE385/Lab5/slc3 {C:/ECE385/Lab5/slc3/Mem2IO.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:09:17 on Mar 20,2023
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/ECE385/Lab5/slc3" C:/ECE385/Lab5/slc3/Mem2IO.sv 
+# -- Compiling module Mem2IO
+# 
+# Top level modules:
+# 	Mem2IO
+# End time: 15:09:17 on Mar 20,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/ECE385/Lab5/slc3 {C:/ECE385/Lab5/slc3/ISDU.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:09:17 on Mar 20,2023
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/ECE385/Lab5/slc3" C:/ECE385/Lab5/slc3/ISDU.sv 
+# -- Compiling module ISDU
+# 
+# Top level modules:
+# 	ISDU
+# End time: 15:09:17 on Mar 20,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/ECE385/Lab5/slc3 {C:/ECE385/Lab5/slc3/HexDriver.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:09:17 on Mar 20,2023
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/ECE385/Lab5/slc3" C:/ECE385/Lab5/slc3/HexDriver.sv 
+# -- Compiling module HexDriver
+# 
+# Top level modules:
+# 	HexDriver
+# End time: 15:09:17 on Mar 20,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/ECE385/Lab5/slc3 {C:/ECE385/Lab5/slc3/Datapath.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:09:17 on Mar 20,2023
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/ECE385/Lab5/slc3" C:/ECE385/Lab5/slc3/Datapath.sv 
+# -- Compiling module datapath
+# 
+# Top level modules:
+# 	datapath
+# End time: 15:09:17 on Mar 20,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/ECE385/Lab5/slc3 {C:/ECE385/Lab5/slc3/slc3.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:09:17 on Mar 20,2023
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/ECE385/Lab5/slc3" C:/ECE385/Lab5/slc3/slc3.sv 
+# -- Compiling module slc3
+# 
+# Top level modules:
+# 	slc3
+# End time: 15:09:17 on Mar 20,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/ECE385/Lab5/slc3 {C:/ECE385/Lab5/slc3/memory_contents.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:09:17 on Mar 20,2023
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/ECE385/Lab5/slc3" C:/ECE385/Lab5/slc3/memory_contents.sv 
+# -- Compiling package memory_contents_sv_unit
+# -- Importing package SLC3_2
+# -- Compiling module memory_parser
+# 
+# Top level modules:
+# 	memory_parser
+# End time: 15:09:17 on Mar 20,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/ECE385/Lab5/slc3 {C:/ECE385/Lab5/slc3/slc3_testtop.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:09:17 on Mar 20,2023
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/ECE385/Lab5/slc3" C:/ECE385/Lab5/slc3/slc3_testtop.sv 
+# -- Compiling module slc3_testtop
+# 
+# Top level modules:
+# 	slc3_testtop
+# End time: 15:09:17 on Mar 20,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -sv -work work +incdir+C:/ECE385/Lab5/quartus/../slc3 {C:/ECE385/Lab5/quartus/../slc3/testbench_16.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:09:17 on Mar 20,2023
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/ECE385/Lab5/quartus/../slc3" C:/ECE385/Lab5/quartus/../slc3/testbench_16.sv 
+# -- Compiling module testbench_16
+# 
+# Top level modules:
+# 	testbench_16
+# End time: 15:09:18 on Mar 20,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L fiftyfivenm_ver -L rtl_work -L work -voptargs="+acc"  testbench_16
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L fiftyfivenm_ver -L rtl_work -L work -voptargs=""+acc"" testbench_16 
+# Start time: 15:09:18 on Mar 20,2023
+# Loading sv_std.std
+# Loading work.testbench_16
+# Loading work.slc3_testtop
+# Loading work.slc3
+# Loading work.HexDriver
+# Loading work.datapath
+# Loading work.reg_16
+# Loading work.register_file
+# Loading work.mux4_1_16
+# Loading work.mux2_1_16
+# Loading work.mux_BUS
+# Loading work.mux2_1_3
+# Loading work.ALU
+# Loading work.reg_3
+# Loading work.reg_1
+# Loading work.Mem2IO
+# Loading work.ISDU
+# Loading work.test_memory
+# Loading work.SLC3_2
+# Loading work.memory_contents_sv_unit
+# Loading work.memory_parser
+# Loading work.sync
+# ** Warning: (vsim-3015) C:/ECE385/Lab5/slc3/Datapath.sv(101): [PCDPC] - Port size (16) does not match connection size (14) for port 'D_In'. The port definition is at: C:/ECE385/Lab5/slc3/Mux.sv(6).
+#    Time: 0 ps  Iteration: 0  Instance: /testbench_16/microprocessor/slc/data/PC_Mux File: C:/ECE385/Lab5/slc3/Mux.sv
+# End time: 15:09:24 on Mar 20,2023, Elapsed time: 0:00:06
+# Errors: 0, Warnings: 1
