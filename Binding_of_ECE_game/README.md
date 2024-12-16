@@ -1,7 +1,7 @@
 # Implementation of the game "Binding of Issac" on an FPGA
 
 ## Description
-This is the culmination of a semester worth of ECE 385, Digital Systems Laboratory, at the University of Illinois done by Gustavo Fonseca and Hunter Baisden. In this class we worked on each lab together and explored a variety of FPGA concepts. 
+This is the culmination of a semester-worth of ECE 385-Digital Systems Laboratory at the University of Illinois. The various labs and final project were done together by Gustavo Fonseca and Hunter Baisden. In this class, we explored a variety of FPGA concepts. 
 
 For the final project of this class, we designed and developed our game: "Binding of an ECE Major". This game was inspired by the game "Binding of Issac".
 
@@ -16,7 +16,7 @@ I would like to highlight that this game was designed and implemented purely wit
   - Contains the all the code and implemnetation to set up the game on the FPGA.
 
  - **[ram](./Binding_of_ECE_game/ram)**
-  - Contains the files to set up the RAM for the FPGA.
+   - Contains the files to set up the RAM for the FPGA.
 
 - **[source](./Binding_of_ECE_game/source)**
   - Contains all the sprites used for the game.
