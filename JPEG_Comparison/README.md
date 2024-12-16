@@ -3,6 +3,8 @@
 ## Introduction
 This project by Gustavo Fonseca and Hunter Baisden aims to compare the loading times and display qualities of JPEG and JPEG 2000 images. It includes a Flask web application that allows users to view different image formats. This was our final project for ECE418-"Image Processing" at the University of Illinois.
 
+The final report can be found [here](./JPEG_Comparison_Final_Report.pdf).
+
 ## Features
 - Display Baseline JPEG images.
 - Show Progressive JPEG images.
